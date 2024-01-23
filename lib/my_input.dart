@@ -23,7 +23,7 @@ class MyInput extends StatelessWidget {
   List<Widget> getInputs() {
     return InputItem.values
         .map(
-          (imagePath) => InputCard(imagePath: imagePath.path,),
+          (imagePath) => InputCard(imagePath: imagePath.path, isAi: false),
         )
         .toList();
   }
