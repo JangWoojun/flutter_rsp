@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rsp/input_item.dart';
+import 'package:flutter_rsp/game/input_item.dart';
 
 import 'input_card.dart';
 

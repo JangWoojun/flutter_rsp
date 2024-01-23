@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'ai_input.dart';
-import 'game_result.dart';
-import 'my_input.dart';
+import 'game/widget/ai_input.dart';
+import 'game/widget/game_result.dart';
+import 'game/widget/my_input.dart';
 
 
 void main() {

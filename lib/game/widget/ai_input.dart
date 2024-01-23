@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_rsp/input_item.dart';
 
 class AiInput extends StatelessWidget {
   const AiInput({required this.isEnd, super.key});
